@@ -1,2 +1,2 @@
 # blurDatection
-Blur datection using haar wavelet trainsform
+Blur detection using haar wavelet trainsform
