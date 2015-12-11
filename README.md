@@ -1,2 +1,2 @@
 # blurDetection
-Blur detection using haar wavelet transform
+2004 Blur Detection for Digital Images Using Wavelet Transform
